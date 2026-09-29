@@ -6,3 +6,7 @@ out
 *.log
 .env*
 !.env.example
+/Demo Video.MOV
+/Demo Video.MOV.zip
+/PowerChain AI.docx
+/同花顺交付/
