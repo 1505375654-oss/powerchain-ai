@@ -4,9 +4,14 @@ An evidence-led AI research product for mapping company–concept relationships,
 
 ## Demo
 
-**Live Product:** [PLACEHOLDER — production deployment pending]
+Live Product:
+[https://powerchain-ai.vercel.app](https://powerchain-ai.vercel.app)
 
-**Demo Video:** [PLACEHOLDER — add before submission]
+Source Code:
+[https://github.com/1505375654-oss/powerchain-ai](https://github.com/1505375654-oss/powerchain-ai)
+
+Demo Video:
+[PLACEHOLDER — add before submission]
 
 ## 1. Problem
 

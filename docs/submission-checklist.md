@@ -2,7 +2,7 @@
 
 ## Product
 
-- [ ] Accessible Web URL
+- [x] Accessible Web URL
 - [x] Overview
 - [x] Company Evidence
 - [x] Cross-market Comparison
@@ -37,6 +37,6 @@
 
 ## Submission
 
-- [ ] GitHub repository
-- [ ] Live product URL
+- [x] GitHub repository
+- [x] Live product URL
 - [ ] 60–180 second demo video
